@@ -1,0 +1,1 @@
+Upload all files inside this folder to a NEW separate HTTPS site or separate GitHub Pages repository. Do not overwrite the original site. Open the new site in Chrome, menu > Add to Home screen / Install app. This is a PWA, not APK. Back up data regularly.
